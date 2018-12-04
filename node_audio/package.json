@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "baidu-aip-sdk": "^2.3.6",
+    "express": "^4.16.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "multiparty": "^4.2.1"
+  }
+}
